@@ -18,7 +18,6 @@ Exemplos de conteúdos presentes no repositório:
 
 - Sistemas Embarcados
 - Sistemas Operacionais
-- Programação em C
 - Arduino
 - Arquitetura ARM
 - RTOS e GPOS
